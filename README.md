@@ -12,8 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abir-hal-3746b6203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abir hal" height="30" width="40" /></a>
-<a href="https://fb.com/abir hal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abir hal" height="30" width="40" /></a>
-<a href="https://instagram.com/abir hal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abir hal" height="30" width="40" /></a>
+<a href="https://www.facebook.com/abir.hal.31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abir hal" height="30" width="40" /></a>
+<a href="(https://www.instagram.com/abir_hal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abir hal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
