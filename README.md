@@ -3,7 +3,7 @@
 <img align="right" src="https://github.com/AbirHal/abirHal/assets/77001053/61d3583e-46e2-4169-9700-9bfaa172046c"width="400" />
 
 
-- 🌱 I’m currently learning **react , vue**
+
 
 - 👨‍💻 All of my projects are available at [http://abirhalportfolio.epizy.com](http://abirhalportfolio.epizy.com)
 
