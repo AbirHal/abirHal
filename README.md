@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Abir Hal</h1>
-<h3 align="left">A Frontend Web Developer</h3>
+<h3 align="left">A  Web Developer</h3>
 <img align="right" src="https://github.com/AbirHal/abirHal/assets/77001053/61d3583e-46e2-4169-9700-9bfaa172046c"width="400" />
 
 
