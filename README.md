@@ -5,7 +5,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [http://abirhal.site](http://abirhal.site)
+- 👨‍💻 All of my projects are available at [http://abirhal.site](https://abirhalportfolio.netlify.app/)
 
 - 📫 How to reach me **abirhalouadji@gmail.com**
 
